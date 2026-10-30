@@ -1,0 +1,9 @@
+{
+  "name": "MK Chess Lab | MK CREATIVE",
+  "short_name": "MK Chess Lab",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080a14",
+  "theme_color": "#080a14",
+  "description": "Educational chess learning and practice app."
+}
